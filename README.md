@@ -2,7 +2,7 @@
 
 # ESP32 Art-Net LED Matrix Controller
 
-![Final Product](./images/final.jpg)
+![Final Product](./images/final.gif)
 
 > A high-performance ESP32-based controller for HUB75 P5 64×32 RGB LED matrix panels, receiving Art-Net DMX over Wi-Fi and displaying pixel data at up to 20 FPS.
 
