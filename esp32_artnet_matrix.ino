@@ -9,8 +9,8 @@
 //----------------------------------------
 //         Wi-Fi Configuration
 //----------------------------------------
-const char* ssid     = "AROS-IOT";                  // Your Wi-Fi SSID
-const char* password = "AX3@73AROSoftCuM@";         // Your Wi-Fi password
+const char* ssid     = "SSID";                  // Your Wi-Fi SSID
+const char* password = "Password";         // Your Wi-Fi password
 const char* hostname = "esp32-LED-Matrix-Controller";// Optional mDNS/hostname
 
 //----------------------------------------
