@@ -114,6 +114,6 @@ Use it to stream test patterns or live pixels over Art-Net:
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the Apache License. See [LICENSE](LICENSE) for details.
 
 ---
