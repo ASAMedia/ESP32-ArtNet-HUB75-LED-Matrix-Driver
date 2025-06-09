@@ -93,7 +93,7 @@
 An example QLC+ project file is included in the `examples/` folder.
 Use it to stream test patterns or live pixels over Art-Net:
 
-* `examples/qlcplus-matrix-demo.qlc`
+* `examples/qlcplus-matrix-demo.qxw`
 
 ---
 
