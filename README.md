@@ -25,7 +25,7 @@
 
 ## Features
 
-![Final Product](./images/final2.gif)
+![Final Product_2](./images/final2.gif)
 * **Fast rendering**: lookup-table pixel packing, and dual-core tasks for 10–20 FPS.
 * **Art-Net DMX**: Receives up to 16 universes (5–20) over Wi-Fi via Art-Net protocol.
 * **Configurable**: Adjust I²S clock, and panel geometry in `setup()`.
