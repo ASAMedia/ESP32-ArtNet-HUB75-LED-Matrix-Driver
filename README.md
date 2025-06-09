@@ -4,7 +4,7 @@
 
 ![Final Product](./images/final.gif)
 
-> A high-performance ESP32-based controller for HUB75 P5 64×32 RGB LED matrix panels, receiving Art-Net DMX over Wi-Fi and displaying pixel data at up to 20 FPS.
+> A ESP32-based controller for HUB75 P5 64×32 RGB LED matrix panels, receiving Art-Net DMX over Wi-Fi and displaying pixel data at up to 20 FPS.
 
 ---
 
@@ -25,8 +25,7 @@
 
 ## Features
 
-![Final Product_2](./images/final2.gif)
-
+![Final Product_2](./images/final_2.gif)
 * **Fast rendering**: lookup-table pixel packing, and dual-core tasks for 10–20 FPS.
 * **Art-Net DMX**: Receives up to 16 universes (5–20) over Wi-Fi via Art-Net protocol.
 * **Configurable**: Adjust I²S clock, and panel geometry in `setup()`.
